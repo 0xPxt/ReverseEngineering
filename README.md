@@ -1,2 +1,2 @@
 # ReverseEngineering
-Annotations on the RE4B book
+Annotations on the RE4B book with Xournal++.
